@@ -2,7 +2,7 @@ name: Clock Out
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 16 * * 1-5'
+    - cron:  '0 11 * * 1-5'
 jobs:
   run:
     runs-on: ubuntu-latest
