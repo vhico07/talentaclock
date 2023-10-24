@@ -22,3 +22,5 @@ jobs:
         TALENTA_PASSWORD: ${{ secrets.TALENTA_PASSWORD }}
         LATITUDE: ${{ secrets.LATITUDE }}
         LONGITUDE: ${{ secrets.LONGITUDE }}
+
+        
